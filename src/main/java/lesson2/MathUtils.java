@@ -1,6 +1,7 @@
 package lesson2;
 
 public class MathUtils {
+
     public static void main(String[] args) {
         checkSumBetween10and20(10, 0);
         checkSumBetween10and20(10, 10);
